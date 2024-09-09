@@ -22,15 +22,21 @@ I think that the combination of my past experience helps me to make a good produ
 * Eslint
 * Prettier
 * Jira
+
 ## Education
 * STU Tunnels and bridges constructions
 * [RS school stage#0](https://app.rs.school/certificate/ake57cyp)
 * [RS school stage#1](https://app.rs.school/certificate/llj1px5c)
 * RS school Angular (In progress)
+
 ## Code example 
-[Core JS](https://github.com/IamBigBobby#javascript)  
-[Angular](https://github.com/IamBigBobby/Train-A)  
-[Node JS](https://github.com/IamBigBobby/HTML-Builder)
+* [Core JS](https://github.com/IamBigBobby#javascript)  
+* [Angular](https://github.com/IamBigBobby/Train-A)  
+* [Node JS](https://github.com/IamBigBobby/HTML-Builder)
 
 ## Github link
-[IamBigBobby](https://github.com/IamBigBobby)
+* [IamBigBobby](https://github.com/IamBigBobby)
+
+## Languages
+* Russian (native)
+* English (B1)
