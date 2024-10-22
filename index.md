@@ -24,10 +24,12 @@ I think that the combination of my past experience helps me to make a good produ
 * Jira
 
 ## Education
+
 * STU Tunnels and bridges constructions
 * [RS school stage#0](https://app.rs.school/certificate/ake57cyp)
 * [RS school stage#1](https://app.rs.school/certificate/llj1px5c)
-* RS school Angular (In progress)
+* [RS school Angular](https://app.rs.school/certificate/fe76rjko)
+* RS school NodeJs (in progress)
 
 ## Code example 
 * [Core JS](https://github.com/IamBigBobby#javascript)  
